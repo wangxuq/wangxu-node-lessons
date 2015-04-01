@@ -1,0 +1,25 @@
+{
+  "name": "lesson2",
+  "version": "0.0.0",
+  "description": "this is an simple crawler application",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/wangxuq/wangxu-node-lessons/lesson2"
+  },
+  "keywords": [
+    "cheerio",
+    "superagent",
+    "express"
+  ],
+  "author": "wangxu",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "express": "^4.12.3",
+    "superagent": "^1.1.0"
+  }
+}
