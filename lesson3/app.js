@@ -19,8 +19,7 @@ app.get("/",function(req,res,next){
                 item.push({
                     title : $element.attr("title"),
                     href : $element.attr("href")
-                })
-
+                });
             });
             res.send(item);
        });
