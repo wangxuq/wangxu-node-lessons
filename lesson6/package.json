@@ -1,0 +1,19 @@
+{
+  "name": "lesson6",
+  "version": "0.0.1",
+  "description": "how to test and assert",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:wangxuq/wangxu-lesson-node.git/lesson6"
+  },
+  "keywords": [
+    "should",
+    "mocha"
+  ],
+  "author": "wangxuq",
+  "license": "MIT"
+}
