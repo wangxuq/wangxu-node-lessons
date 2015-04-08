@@ -1,0 +1,22 @@
+{
+  "name": "lesson5",
+  "version": "0.1.1",
+  "description": "use async to control concurrence",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com:wangxuxa/wangxuq/wangxu-node-lessons.git/lesson5"
+  },
+  "keywords": [
+    "async",
+    "concurrence"
+  ],
+  "author": "wangxuq",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
